@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo *Hi welcome to devops learning*
-echo
+echo "2nd line"
 
